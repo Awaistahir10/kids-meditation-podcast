@@ -7,9 +7,12 @@
     <language>en-us</language>
     <copyright>© 2025 Kids Meditation</copyright>
     <itunes:author>Awais Tahir</itunes:author>
-    <description>
-      Soothing bedtime meditations for children to relax and sleep peacefully.
-    </description>
+    <itunes:owner>
+      <itunes:name>Awais Tahir</itunes:name>
+      <itunes:email>awaistahir037@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://github.com/Awaistahir10/kids-meditation-podcast/raw/main/A_2D_digital_illustration_serves_as_the_cover_art_.png" />
+    <description>Soothing bedtime meditations for children to relax and sleep peacefully.</description>
 
     <item>
       <title>Episode 1 - Floating on a Cloud</title>
